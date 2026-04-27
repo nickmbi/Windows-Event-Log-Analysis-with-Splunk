@@ -1,7 +1,5 @@
 # Windows-Event-Log-Analysis-with-Splunk
 
-# Windows-Event-Log-Analysis-with-Splunk
-
 ## Objective
 
 This project involved importing Windows Security Event Logs into Splunk to analyze authentication activity and identify abnormal login behavior. The goal was to gain hands-on experience with Windows log analysis, Splunk searching, event correlation, and brute-force detection using Event ID 4624 and Event ID 4625.
