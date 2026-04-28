@@ -34,6 +34,9 @@ Opened Windows Event Viewer and navigated to the Security logs. Reviewed authent
 
 Located Event ID 4624 and 4625 in the Security logs. Event ID 4624 represents a successful logon attempts while Event ID 4625 represents a failed logon.
 
+<img width="1920" height="1009" alt="Event Viewer 4_28_2026 12_45_37 AM" src="https://github.com/user-attachments/assets/004fe3f3-62b0-40b4-bf76-dfbb4e2bd29e" />
+
+
 4: Windows Security Log Export
 
 Exported Windows Security Event Logs from Event Viewer so they could be imported into Splunk for centralized analysis.
@@ -41,6 +44,9 @@ Exported Windows Security Event Logs from Event Viewer so they could be imported
 5: Splunk Log Import
 
 Imported the Windows Security Event Logs into Splunk. This allowed the authentication events to be searched, filtered, and analyzed using SPL queries.
+
+<img width="1920" height="1032" alt="Add Data - Select Source _ Splunk 10 2 0 - Google Chrome 4_28_2026 12_52_18 AM" src="https://github.com/user-attachments/assets/2db98cf2-9fe7-4dbe-8774-d9b13f1f8d3f" />
+
 
 6: Basic Authentication Event Search
 
