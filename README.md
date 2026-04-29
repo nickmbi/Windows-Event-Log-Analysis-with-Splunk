@@ -20,8 +20,6 @@ This project involved importing Windows Security Event Logs into Splunk to analy
 - SPL — Used to write searches for successful logons, failed logons, and suspicious authentication patterns.
 - Windows Host/VM — Used to generate authentication events for analysis.
 
-# Windows-Event-Log-Analysis-with-Splunk
-
 > **Disclaimer:** This lab was originally completed in March. My Splunk Enterprise Trial license has since expired, so I am currently unable to access the original Splunk environment to capture additional screenshots. Because of this, the screenshots included are limited to the ones I took while recreating this write-up.
 
 ## Steps
