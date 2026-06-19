@@ -4,13 +4,6 @@
 
 This project involved importing Windows Security Event Logs into Splunk to analyze authentication activity and identify abnormal login behavior. The goal was to gain hands-on experience with Windows log analysis, Splunk searching, event correlation, and brute-force detection using Event ID 4624 and Event ID 4625.
 
-### Skills Learned
-
-- Imported Windows Security Event Logs into Splunk for centralized log analysis.
-- Analyzed Windows authentication activity using Event ID 4624 and Event ID 4625.
-- Identified successful logons, failed logons, and abnormal authentication patterns.
-- Used Splunk SPL searches to filter and investigate Windows Security Events.
-- Improved understanding of Windows Security Logs, SIEM analysis, and authentication monitoring.
 
 ### Tools Used
 
